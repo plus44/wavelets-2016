@@ -1,0 +1,7 @@
+function [ output_args ] = af_find_t_k(h)
+%AF_FIND_T_K Find the t_ks of a provided annihilating filter.
+%   Detailed explanation goes here
+
+
+end
+
